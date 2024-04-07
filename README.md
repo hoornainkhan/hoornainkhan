@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hoornainkhan
-- 👀 I’m interested in ... becomin dope dev
-- 🌱 I’m currently learning ... react js
+- 👀 I’m interested in ... becoming a dope dev
+- 🌱 I’m currently learning ... backend
 - 💞️ I’m looking to collaborate on ... frontend projects
 - 📫 How to reach me ... hooriking2004@gmail.com
 
